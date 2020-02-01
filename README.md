@@ -1,4 +1,4 @@
-# Nuclear-Reactors
+# Nuclear-Reactors: What makes a nuclear reactors more reliable ? + Attempt in forecasting future performances.
 
 Study of a dataset dealing with the nuclear plants located in the USA. I downloaded a dataset from the NRC including all kind of informations such as the location of the plant, the reactor type, the parent plant name, the capacity factor (very crucial figure for any electricity generating plant) during last years,..
 
