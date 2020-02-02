@@ -93,7 +93,7 @@ plt.boxplot(data);
 plt.savefig('MultipleBoxPlot.png')
 plt.show()
 #From this plot and knowing that plants constructed by BECH, S&L and S&W are significantly different,
-#we can say from the boxplot that S&L plants better than the others but S&W's plants are more reliable 
+#we can say that S&L plants perform better than the others but S&W's plants are more reliable 
 #than the others (smaller variance in means of capacity factors)
 
 
